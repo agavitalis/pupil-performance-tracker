@@ -11,13 +11,13 @@ This project is live on:- https://pupil-performance-tracker.herokuapp.com
 
 ## Login Details
 Login to the system using the following details:
-# As Admin---------------------------
-Username:vitalis
+#### As Admin---------------------------
+Username:vitalis<br>
 Email:12345
 
 
-# As Teacher---------------------------
-Username:juditech
+#### As Teacher---------------------------
+Username:juditech<br>
 Email:12345
 
 
