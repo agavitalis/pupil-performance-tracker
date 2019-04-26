@@ -11,8 +11,8 @@ $dbname = "judith";
     $dbname_live = "heroku_026a3952fc42287";
     // Create connection
     
-    $conn = mysqli_connect($servername, $user, $password,$dbname);
-    //$conn = mysqli_connect($servername_live, $user_live, $password_live,$dbname_live);
+    //$conn = mysqli_connect($servername, $user, $password,$dbname);
+    $conn = mysqli_connect($servername_live, $user_live, $password_live,$dbname_live);
 
 
 
