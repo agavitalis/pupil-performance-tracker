@@ -9,14 +9,14 @@ Childern can be guided towards making the right career choice, thus this solutio
 ## How to Use
 This project is live on:- https://pupil-performance-tracker.herokuapp.com
 
-##Login Details
+## Login Details
 Login to the system using the following details:
-As Admin---------------------------
+# As Admin---------------------------
 Username:vitalis
 Email:12345
 
 
-As Teacher---------------------------
+# As Teacher---------------------------
 Username:juditech
 Email:12345
 
